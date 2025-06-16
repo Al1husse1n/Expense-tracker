@@ -10,7 +10,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* Glass-style container */
 .container {
     background: rgba(255, 255, 255, 0.15);
     padding: 30px;
@@ -28,7 +27,6 @@ h2 {
     font-weight: bold;
 }
 
-/* Input styles */
 input {
     width: 100%;
     padding: 10px;
@@ -39,7 +37,6 @@ input {
     background: rgba(255, 255, 255, 0.3);
 }
 
-/* Button styling */
 button {
     width: 100%;
     padding: 10px;
